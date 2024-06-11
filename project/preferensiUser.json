@@ -1,0 +1,45 @@
+{
+    "alex": {
+      "genre_suka": ["action", "drama"],
+      "tahun_keluar": [1999, 2020],
+      "negara_asal": ["USA"],
+      "rating_minimal": 7.0,
+      "target_penonton": ["remaja", "dewasa"]
+    },
+    "dae": {
+      "genre_suka": ["drama", "romance"],
+      "tahun_keluar": [1994, 2015, 2020],
+      "negara_asal": ["USA"],
+      "rating_minimal": 6.0,
+      "target_penonton": ["dewasa"]
+    },
+    "eric": {
+      "genre_suka": ["romance", "action"],
+      "tahun_keluar": [2016, 2020, 2023],
+      "negara_asal": ["USA"],
+      "rating_minimal": 7.0,
+      "target_penonton": ["remaja", "dewasa"]
+    },
+    "bella": {
+      "genre_suka": ["animation", "drama"],
+      "tahun_keluar": [2020, 2021, 2022, 2023],
+      "negara_asal": ["Japan"],
+      "rating_minimal": 7.0,
+      "target_penonton": ["semua_target_penonton", "remaja"]
+    },
+    "arjun": {
+      "genre_suka": ["action", "sci-fi"],
+      "tahun_keluar": [2020, 2021, 2022, 2023],
+      "negara_asal": ["India"],
+      "rating_minimal": 7.0,
+      "target_penonton": ["remaja", "dewasa"]
+    },
+    "camille": {
+      "genre_suka": ["drama", "comedy"],
+      "tahun_keluar": [2019, 2020, 2021, 2022, 2023],
+      "negara_asal": ["France"],
+      "rating_minimal": 6.0,
+      "target_penonton": ["remaja", "dewasa"]
+    }
+  }
+  

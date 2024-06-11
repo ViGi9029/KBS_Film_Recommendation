@@ -1,0 +1,1135 @@
+[
+        {
+            "film": "The Matrix",
+            "rating": 8.7,
+            "negara": "USA",
+            "bahasa": "english",
+            "tahun": 1999,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "The Shawshank Redemption",
+            "rating": 9.3,
+            "negara": "USA",
+            "bahasa": "english",
+            "tahun": 1994,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Princess Bride",
+            "rating": 8.1,
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 1987,
+            "usia": "semua_usia",
+            "genre": "comedy"
+        },
+        {
+            "film": "Fifty Shades of Grey",
+            "rating": 3.8,
+            "negara": "USA",
+            "bahasa": "english",
+            "tahun": 2015,
+            "usia": "dewasa",
+            "genre": "romance"
+        },
+        {
+            "film": "La La Land",
+            "rating": 8.0,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2016,
+            "usia": "remaja",
+            "genre": "romance"
+        },
+        {
+            "film": "Tenet",
+            "rating": 7.5,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2020,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Soul",
+            "rating": 8.1,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2020,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Mulan",
+            "rating": 5.7,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2020,
+            "usia": "semua_usia",
+            "genre": "action"
+        },
+        {
+            "film": "Nomadland",
+            "rating": 7.4,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2020,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Trial of the Chicago 7",
+            "rating": 7.8,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2020,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Dune",
+            "rating": 8.2,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Space Jam: A New Legacy",
+            "rating": 4.3,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2021,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Top Gun: Maverick",
+            "rating": 8.4,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Morbius",
+            "rating": 5.2,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Avatar: The Way of Water",
+            "rating": 7.9,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Everything Everywhere All at Once",
+            "rating": 8.0,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Barbie",
+            "rating": 7.5,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2023,
+            "usia": "semua_usia",
+            "genre": "comedy"
+        },
+        {
+            "film": "Ant-Man and the Wasp: Quantumania",
+            "rating": 6.1,
+            
+                "negara": "USA",
+                "bahasa": "english",
+            "tahun": 2023,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Parasite",
+            "rating": 8.6,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2019,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Train to Busan",
+            "rating": 7.6,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2016,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Minari",
+            "rating": 7.5,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2020,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Peninsula",
+            "rating": 5.5,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2020,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Space Sweepers",
+            "rating": 6.6,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "The Call",
+            "rating": 7.1,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2020,
+            "usia": "dewasa",
+            "genre": "thriller"
+        },
+        {
+            "film": "Night in Paradise",
+            "rating": 6.7,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2020,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Witch: Part 1. The Subversion",
+            "rating": 7.2,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2018,
+            "usia": "dewasa",
+            "genre": "thriller"
+        },
+        {
+            "film": "Okja",
+            "rating": 7.3,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2017,
+            "usia": "remaja",
+            "genre": "adventure"
+        },
+        {
+            "film": "The Handmaiden",
+            "rating": 8.1,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2016,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Amélie",
+            "rating": 8.3,
+            
+                "negara": "France",
+                "bahasa": "french"
+            ,
+            "tahun": 2001,
+            "usia": "remaja",
+            "genre": "comedy"
+        },
+        {
+            "film": "The Intouchables",
+            "rating": 8.5,
+            
+                "negara": "France",
+                "bahasa": "french"
+            ,
+            "tahun": 2011,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Les Misérables",
+            "rating": 7.6,
+            
+                "negara": "France",
+                "bahasa": "french"
+            ,
+            "tahun": 2019,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "Portrait of a Lady on Fire",
+            "rating": 8.1,
+            
+                "negara": "France",
+                "bahasa": "french"
+            ,
+            "tahun": 2019,
+            "usia": "dewasa",
+            "genre": "romance"
+        },
+        {
+            "film": "Ratatouille",
+            "rating": 8.0,
+            
+                "negara": "France",
+                "bahasa": "french"
+            ,
+            "tahun": 2007,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Mignonnes",
+            "rating": 3.3,
+            
+                "negara": "France",
+                "bahasa": "french"
+            ,
+            "tahun": 2020,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "The Girl with the Dragon Tattoo",
+            "rating": 7.8,
+            
+                "negara": "Sweden",
+                "bahasa": "swedish"
+            ,
+            "tahun": 2009,
+            "usia": "dewasa",
+            "genre": "thriller"
+        },
+        {
+            "film": "A Man Called Ove",
+            "rating": 7.7,
+            
+                "negara": "Sweden",
+                "bahasa": "swedish"
+            ,
+            "tahun": 2015,
+            "usia": "remaja",
+            "genre": "comedy"
+        },
+        {
+            "film": "Force Majeure",
+            "rating": 7.3,
+            
+                "negara": "Sweden",
+                "bahasa": "swedish"
+            ,
+            "tahun": 2014,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "Let the Right One In",
+            "rating": 7.9,
+            
+                "negara": "Sweden",
+                "bahasa": "swedish"
+            ,
+            "tahun": 2008,
+            "usia": "remaja",
+            "genre": "horror"
+        },
+        {
+            "film": "Sami Blood",
+            "rating": 7.3,
+            
+                "negara": "Sweden",
+                "bahasa": "swedish"
+            ,
+            "tahun": 2016,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "Downfall",
+            "rating": 8.2,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 2004,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Lives of Others",
+            "rating": 8.4,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 2006,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Good Bye Lenin!",
+            "rating": 7.7,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 2003,
+            "usia": "remaja",
+            "genre": "comedy"
+        },
+        {
+            "film": "Run Lola Run",
+            "rating": 7.6,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 1998,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Toni Erdmann",
+            "rating": 7.4,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 2016,
+            "usia": "remaja",
+            "genre": "comedy"
+        },
+        {
+            "film": "Lola Rennt",
+            "rating": 7.7,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 1998,
+            "usia": "remaja",
+            "genre": "thriller"
+        },
+        {
+            "film": "The Silent Revolution",
+            "rating": 7.5,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 2018,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "In the Fade",
+            "rating": 7.1,
+            
+                "negara": "Germany",
+                "bahasa": "german"
+            ,
+            "tahun": 2017,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "Parasite",
+            "rating": 8.6,
+            
+                "negara": "South Korea",
+                "bahasa": "korean"
+            ,
+            "tahun": 2019,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Invisible Guest",
+            "rating": 8.1,
+            
+                "negara": "Spain",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2016,
+            "usia": "remaja",
+            "genre": "thriller"
+        },
+        {
+            "film": "Pan's Labyrinth",
+            "rating": 8.2,
+            
+                "negara": "Spain",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2006,
+            "usia": "remaja",
+            "genre": "fantasy"
+        },
+        {
+            "film": "Roma",
+            "rating": 7.7,
+            
+                "negara": "Mexico",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2018,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Coco",
+            "rating": 8.4,
+            
+                "negara": "Mexico",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2017,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Y Tu Mamá También",
+            "rating": 7.7,
+            
+                "negara": "Mexico",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2001,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Orphanage",
+            "rating": 7.4,
+            
+                "negara": "Spain",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2007,
+            "usia": "dewasa",
+            "genre": "horror"
+        },
+        {
+            "film": "The Sea Inside",
+            "rating": 8.0,
+            
+                "negara": "Spain",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2004,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "Talk to Her",
+            "rating": 8.0,
+            
+                "negara": "Spain",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2002,
+            "usia": "dewasa",
+            "genre": "drama"
+        },
+        {
+            "film": "The Motorcycle Diaries",
+            "rating": 7.8,
+            
+                "negara": "Argentina",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2004,
+            "usia": "remaja",
+            "genre": "adventure"
+        },
+        {
+            "film": "Wild Tales",
+            "rating": 8.1,
+            
+                "negara": "Argentina",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2014,
+            "usia": "dewasa",
+            "genre": "comedy"
+        },
+        {
+            "film": "The Secret in Their Eyes",
+            "rating": 8.2,
+            
+                "negara": "Argentina",
+                "bahasa": "spanish"
+            ,
+            "tahun": 2009,
+            "usia": "dewasa",
+            "genre": "thriller"
+        },
+        {
+            "film": "Spirited Away",
+            "rating": 8.6,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2001,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Your Name",
+            "rating": 8.4,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2016,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Weathering with You",
+            "rating": 7.5,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2019,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Demon Slayer: Mugen Train",
+            "rating": 8.2,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2020,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Violet Evergarden: The Movie",
+            "rating": 8.4,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2020,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Belle",
+            "rating": 7.3,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Earwig and the Witch",
+            "rating": 4.7,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2021,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Jujutsu Kaisen 0",
+            "rating": 7.9,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Suzume",
+            "rating": 8.0,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Bubble",
+            "rating": 6.3,
+            
+                "negara": "Japan",
+                "bahasa": "japanese"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "animation"
+        },
+        {
+            "film": "Dangal",
+            "rating": 8.4,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2016,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "3 Idiots",
+            "rating": 8.4,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2009,
+            "usia": "remaja",
+            "genre": "comedy"
+        },
+        {
+            "film": "Lagaan",
+            "rating": 8.1,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2001,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "Rangasthalam",
+            "rating": 8.4,
+            
+                "negara": "India",
+                "bahasa": "telugu"
+            ,
+            "tahun": 2018,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "RRR",
+            "rating": 8.0,
+            
+                "negara": "India",
+                "bahasa": "telugu"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Master",
+            "rating": 7.4,
+            
+                "negara": "India",
+                "bahasa": "tamil"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Ludo",
+            "rating": 7.6,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2020,
+            "usia": "remaja",
+            "genre": "comedy"
+        },
+        {
+            "film": "Sadak 2",
+            "rating": 1.1,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2020,
+            "usia": "remaja",
+            "genre": "drama"
+        },
+        {
+            "film": "K.G.F: Chapter 2",
+            "rating": 8.3,
+            
+                "negara": "India",
+                "bahasa": "kannada"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Brahmāstra Part One: Shiva",
+            "rating": 5.6,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Spider-Man: No Way Home",
+            "rating": 8.5,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Black Widow",
+            "rating": 7.4,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Dune",
+            "rating": 7.4,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "No Time to Die",
+            "rating": 7.7,
+            
+                "negara": "UK",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "The Matrix Resurrections",
+            "rating": 6.8,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Voyagers",
+            "rating": 5.4,
+            
+                "negara": "UK",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "The Misfits",
+            "rating": 4.2,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Space Jam: A New Legacy",
+            "rating": 4.4,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "semua_usia",
+            "genre": "animation"
+        },
+        {
+            "film": "Thunder Force",
+            "rating": 4.4,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2021,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Avatar 3",
+            "rating": 8.5,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Doctor Strange in the Multiverse of Madness",
+            "rating": 7.6,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2022,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Thor: Love and Thunder",
+            "rating": 7.8,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2022,
+            "usia": "semua_usia",
+            "genre": "action"
+        },
+        {
+            "film": "Black Panther: Wakanda Forever",
+            "rating": 7.9,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2022,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Jurassic World: Dominion",
+            "rating": 7.2,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Brahmāstra Part One: Shiva",
+            "rating": 5.6,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Mann Bairagi",
+            "rating": 4.8,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2022,
+            "usia": "semua_usia",
+            "genre": "biography"
+        },
+        {
+            "film": "The Flash",
+            "rating": 7.3,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "action"
+        },
+        {
+            "film": "Sardar Udham",
+            "rating": 8.8,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2022,
+            "usia": "remaja",
+            "genre": "biography"
+        },
+        {
+            "film": "Chhorii",
+            "rating": 6.4,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2022,
+            "usia": "dewasa",
+            "genre": "horror"
+        },
+        {
+            "film": "Star Wars: Episode X",
+            "rating": 8.0,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Mission: Impossible 7",
+            "rating": 7.7,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "semua_usia",
+            "genre": "action"
+        },
+        {
+            "film": "Avatar 4",
+            "rating": 8.3,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "remaja",
+            "genre": "sci-fi"
+        },
+        {
+            "film": "Indiana Jones 5",
+            "rating": 7.4,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "dewasa",
+            "genre": "adventure"
+        },
+        {
+            "film": "Guardians of the Galaxy Vol. 3",
+            "rating": 8.2,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "semua_usia",
+            "genre": "action"
+        },
+        {
+            "film": "Deadpool 3",
+            "rating": 7.9,
+            
+                "negara": "USA",
+                "bahasa": "english"
+            ,
+            "tahun": 2023,
+            "usia": "dewasa",
+            "genre": "action"
+        },
+        {
+            "film": "Chhatriwali",
+            "rating": 7.4,
+            
+                "negara": "India",
+                "bahasa": "hindi"
+            ,
+            "tahun": 2023,
+            "usia": "remaja",
+            "genre": "drama"
+        }
+    ]

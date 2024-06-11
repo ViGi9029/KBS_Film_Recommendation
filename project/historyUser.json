@@ -1,0 +1,159 @@
+{
+    "alex": [
+      {
+        "film": "the_matrix",
+        "genre": "action",
+        "rating": 8.7,
+        "negara": "USA",
+        "tahun": 1999,
+        "usia": "remaja"
+      },
+      {
+        "film": "the_princess_bride",
+        "genre": "comedy",
+        "rating": 8.1,
+        "negara": "USA",
+        "tahun": 1987,
+        "usia": "semua_usia"
+      },
+      {
+        "film": "Tenet",
+        "genre": "action",
+        "rating": 7.5,
+        "negara": "USA",
+        "tahun": 2020,
+        "usia": "remaja"
+      }
+    ],
+    "dae": [
+      {
+        "film": "the_shawshank_redemption",
+        "genre": "drama",
+        "rating": 9.3,
+        "negara": "USA",
+        "tahun": 1994,
+        "usia": "dewasa"
+      },
+      {
+        "film": "fifty_shades_of_grey",
+        "genre": "romance",
+        "rating": 3.8,
+        "negara": "USA",
+        "tahun": 2015,
+        "usia": "dewasa"
+      },
+      {
+        "film": "Soul",
+        "genre": "animation",
+        "rating": 8.1,
+        "negara": "USA",
+        "tahun": 2020,
+        "usia": "semua_usia"
+      }
+    ],
+    "eric": [
+      {
+        "film": "LaLaLa_Land",
+        "genre": "romance",
+        "rating": 8.0,
+        "negara": "USA",
+        "tahun": 2016,
+        "usia": "remaja"
+      },
+      {
+        "film": "The Invisible Man",
+        "genre": "horror",
+        "rating": 7.2,
+        "negara": "USA",
+        "tahun": 2020,
+        "usia": "dewasa"
+      },
+      {
+        "film": "Star Wars: Episode X",
+        "genre": "sci-fi",
+        "rating": 8.0,
+        "negara": "USA",
+        "tahun": 2023,
+        "usia": "remaja"
+      }
+    ],
+    "bella": [
+      {
+        "film": "Spirited Away",
+        "genre": "animation",
+        "rating": 8.6,
+        "negara": "Japan",
+        "tahun": 2001,
+        "usia": "semua_usia"
+      },
+      {
+        "film": "Your Name",
+        "genre": "animation",
+        "rating": 8.4,
+        "negara": "Japan",
+        "tahun": 2016,
+        "usia": "remaja"
+      },
+      {
+        "film": "Parasite",
+        "genre": "drama",
+        "rating": 8.6,
+        "negara": "South Korea",
+        "tahun": 2019,
+        "usia": "dewasa"
+      }
+    ],
+    "arjun": [
+      {
+        "film": "Lagaan",
+        "genre": "drama",
+        "rating": 8.1,
+        "negara": "India",
+        "tahun": 2001,
+        "usia": "semua_usia"
+      },
+      {
+        "film": "Train to Busan",
+        "genre": "horror",
+        "rating": 7.6,
+        "negara": "South Korea",
+        "tahun": 2016,
+        "usia": "dewasa"
+      },
+      {
+        "film": "Avengers: Endgame",
+        "genre": "action",
+        "rating": 8.4,
+        "negara": "USA",
+        "tahun": 2019,
+        "usia": "dewasa"
+      }
+    ],
+    "camille": [
+      {
+        "film": "Amélie",
+        "genre": "romance",
+        "rating": 8.3,
+        "negara": "France",
+        "tahun": 2001,
+        "usia": "remaja"
+      },
+      {
+        "film": "City of God",
+        "genre": "drama",
+        "rating": 8.6,
+        "negara": "Brazil",
+        "tahun": 2002,
+        "usia": "dewasa"
+      },
+      {
+        "film": "La La Land",
+        "genre": "romance",
+        "rating": 8.0,
+        "negara": "USA",
+        "tahun": 2016,
+        "usia": "remaja"
+      }
+    ]
+  }
+  
